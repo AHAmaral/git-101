@@ -1,11 +1,17 @@
 body{
 	margin: 0;
 	font-family: sans-serif;
+	background: red;
+}
+
+h1{
+	color: white;
 }
 
 #logo{
-	height: 100px;
-	width: 100px;
+	height: 125px;
+	width: 125px;
+	border-radius: 50%;
 }
 
 #container{
